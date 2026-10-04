@@ -1,0 +1,7 @@
+{
+  "name": "تكسي مطار بغداد الدولي",
+  "description": "تطبيق حجز تكسي مطار بغداد الدولي المعتمد - حجز مجدول ومناسب لمواعيد الطيران مع أفضل الكباتن المعتمدين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
